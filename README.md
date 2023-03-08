@@ -1,3 +1,6 @@
 # PruebaGit
 Primer repo muestra de la clase. 
-Aqu'i podemos agreagr cualquier texto que sirva como gu'ia para que los dema puedan saber que hacer con este proyecto. 
+Aqu'i podemos agreagr cualquier texto que sirva como.
+
+
+Borre parte de la linea 3 y a;ad'i esta linea nueva.
